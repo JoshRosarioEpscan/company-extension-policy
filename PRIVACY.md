@@ -12,7 +12,7 @@ The Extension functions by reading Document Object Model (DOM) values from your 
 ### 2. Local Processing and Data Transmission
 We value your privacy and practice data minimization:
 * **Local Processing:** By default, all DOM parsing and data analysis occur locally within your browser environment. 
-* **Data Transmission:** Extracted DOM data is securely transmitted via encrypted HTTPS connection to an internal endpoint at `https://epscancloud.com`. This data is is never shared with third-party data brokers.
+* **Data Transmission:** Extracted DOM data is kept in browser memory which may be optionally downloaded locally and is never shared with third-party data brokers.
 
 ### 3. Limited Use Compliance
 We explicitly certify that our use of information received from Chrome APIs adheres to the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/policies), including the Limited Use requirements. We do not sell, rent, or lease user web browsing activity or page content to any third parties.
